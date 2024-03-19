@@ -1,11 +1,11 @@
-**# EXCEL-FORMULAS-CHEAT-SHEET(BT CATEGORY)**
+# EXCEL-FORMULAS-CHEAT-SHEET(BT CATEGORY)
 
 This cheat sheet contains the most important formulas required for data analysis. 
 
 ## Math formulas
 
-** =SUM
+### =SUM
 : add the total of a series of numbers
 
-** =AVERAGE
+### =AVERAGE
 : calculates the average of a series of numbers
